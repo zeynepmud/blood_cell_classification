@@ -217,10 +217,6 @@ Bu dosya daha sonra WEKA'ya aktarılıp sınıflandırma işlemlerinde kullanıl
 * NumPy
 * scikit-image
 * WEKA
-* GLCM
-* HSV Renk Uzayı
-* Otsu Eşikleme
-* Hu Moments
 * ARFF
 
 ## Veri Seti Kaynağı
